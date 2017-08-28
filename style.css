@@ -24,6 +24,10 @@ a:visited {
 	color: #cf9a50;
 }
 
+li {
+	list-style: none;
+}
+
 p {
 	font-size: 1em;
 	line-height: 1.4em;
@@ -36,6 +40,10 @@ p {
 	max-width: 800px;
 	background: #f3f3f3;
 	margin: 30px auto;
+}
+
+.tech-used {
+	margin-bottom: 0px;
 }
 
 .mainDetails {
