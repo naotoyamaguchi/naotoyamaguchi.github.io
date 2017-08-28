@@ -51,7 +51,9 @@ body {
 a {
   font-weight: bold;
   color: #d5000d;
+  text-decoration: none;
 }
+
 
 header {
   padding-top: 35px;
